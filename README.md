@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello, my name is AdicWu, You can also call me leisurely Wu💬
-I love animation and front end🌱
+I love animation music and front end🌱
 
 Front end is my interest and my duty. I like and am good at writing front-end interaction and beautiful interface
 
