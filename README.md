@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hello, my name is AdicWu, You can also call me leisurely Wu💬
-I love animation music and front end🌱
+你好, 我叫 AdicWu, 你也可以称呼我为悠哉Wu💬
+我喜欢动漫、音乐和前端🌱
 
-Front end is my interest and my duty. I like and am good at writing front-end interaction and beautiful interface
+前端是我的兴趣，也是我的职业. 喜欢并擅长编写前端交互和漂亮的界面
 
-My blog address is as follows, you can ask questions if you need. I will also be active in bilibili⚡, sometimes live writing website, welcome to join us
+我的博客地址如下, 你可以在里面像我提问. 我也常活跃于哔哩哔哩⚡, 也是甚至在直播code，欢迎━(*｀∀´*)ノ亻!来访
 
 [blog](https://www.adicw.cn/)
