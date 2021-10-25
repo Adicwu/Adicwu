@@ -8,3 +8,4 @@
 我的博客地址如下, 你可以在里面像我提问. 我也常活跃于哔哩哔哩⚡, 也是甚至在直播code，欢迎━(*｀∀´*)ノ亻!来访
 
 [blog](https://www.adicw.cn/)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D16053773)](https://space.bilibili.com/16053773)
