@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 你好, 我叫 AdicWu, 你也可以称呼我为悠哉Wu💬
 我喜欢动漫、音乐和前端🌱
