@@ -15,3 +15,5 @@
 [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adicwu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://github-profile-trophy.vercel.app/?username=Adicwu&theme=flat&column=7&margin-w=10)
