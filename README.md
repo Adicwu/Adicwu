@@ -14,8 +14,13 @@
 [![Juejin](https://img.shields.io/badge/juejin-%E6%82%A0%E5%93%89wu-1e80ff?logo=bytedance)](https://juejin.cn/user/289926802309400)
 [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adicwu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ## Projects :computer:
 
 [![Starry](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=Starry)](https://github.com/Adicwu/Starry)
+
+
+## Analysis :point_down:
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adicwu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adicwu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
