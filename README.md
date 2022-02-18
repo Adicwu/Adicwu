@@ -12,7 +12,7 @@
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D16053773)](https://space.bilibili.com/16053773)
 [![Juejin](https://img.shields.io/badge/juejin-%E6%82%A0%E5%93%89wu-1e80ff?logo=bytedance)](https://juejin.cn/user/289926802309400)
-[![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
+[![Github Stars](https://img.shields.io/github/stars/adicwu?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
 
 ## 项目 :computer:
 
