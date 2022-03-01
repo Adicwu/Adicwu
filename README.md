@@ -17,7 +17,7 @@
 ## 项目 :computer:
 
 [![Starry](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=Starry)](https://github.com/Adicwu/Starry)
-
+[![ComicPc](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=comic-pc)](https://github.com/Adicwu/comic-pc)
 
 ## 技能 :point_down:
 
