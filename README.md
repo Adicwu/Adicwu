@@ -18,7 +18,7 @@
 
 [![Starry](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=Starry)](https://github.com/Adicwu/Starry)
 [![ComicPc](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=comic-pc)](https://github.com/Adicwu/comic-pc)
-[![SoraRain](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=sorarain)](https://github.com/Adicwu/sorarain-cli)
+[![SoraRain](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=sorarain-cli)](https://github.com/Adicwu/sorarain-cli)
 
 ## 技能 :point_down:
 
