@@ -15,7 +15,7 @@
 [![Github Stars](https://img.shields.io/github/stars/adicwu?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
 
 ## 项目 :computer:
-[![ComicPc](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=comic-pc)](https://github.com/Adicwu/comic-pc)
+[![Masami](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=masami)](https://github.com/Adicwu/masami)
 [![SorarainCli](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=sorarain-cli)](https://github.com/Adicwu/sorarain-cli)
 
 ## 技能 :point_down:
