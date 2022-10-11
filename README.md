@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-你好, 我叫 AdicWu, 你也可以称呼我为悠哉Wu💬
-我喜欢动漫、音乐和前端🌱
+Hi, am AdicWu, you can also call me Youzai Wu💬
+I love anime, music and front-end🌱
 
-前端是我的兴趣，也是我的职业. 热爱编写前端交互、漂亮的界面与概念性的动效
+Front-end is my hobby and my profession. I love writing front-end interactions, beautiful interfaces and conceptual animations
 
-我的博客地址如下, 你可以在里面向我提问. 我也常活跃于哔哩哔哩⚡, 有时也会直播code，欢迎━(*｀∀´*)ノ亻!来访
+My blog address is as follows, you can ask me questions in it. I am also active in bilibili⚡, sometimes live code，welcome ━(*｀∀´*)ノ亻!visit
 
 [Blog](https://www.adicw.cn/)
 
@@ -14,13 +14,13 @@
 [![Juejin](https://img.shields.io/badge/juejin-%E6%82%A0%E5%93%89wu-1e80ff?logo=bytedance)](https://juejin.cn/user/289926802309400)
 [![Github Stars](https://img.shields.io/github/stars/adicwu?color=faf408&label=github%20stars&logo=github)](https://github.com/Adicwu)
 
-## 项目 :computer:
+## Project :computer:
 [![Masami](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=masami)](https://github.com/Adicwu/masami)
 [![SorarainCli](https://github-readme-stats.vercel.app/api/pin/?username=Adicwu&repo=sorarain-cli)](https://github.com/Adicwu/sorarain-cli)
 
-## 技能 :point_down:
+## Skill :point_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adicwu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 其他
+## Else
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adicwu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
