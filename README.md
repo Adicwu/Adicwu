@@ -22,7 +22,7 @@ I am also active in bilibili⚡, sometimes live code，welcome ━(*｀∀´*)�
 
 ## Skill :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adicwu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adicwu&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Else
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adicwu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
