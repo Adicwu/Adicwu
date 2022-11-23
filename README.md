@@ -7,7 +7,8 @@ Front-end is my hobby and my profession.
 I love writing front-end interactions, beautiful interfaces and conceptual animations
 
 My blog address is as follows, you can ask me questions in it. 
-I am also active in bilibili⚡, sometimes live code，welcome ━(*｀∀´*)ノ亻!visit
+I am also active in bilibili⚡, sometimes live code，
+welcome ━(*｀∀´*)ノ亻!visit
 
 [Blog](https://www.adicw.cn/)
 
